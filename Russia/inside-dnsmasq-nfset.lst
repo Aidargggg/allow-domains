@@ -873,5 +873,6 @@ nftset=/znanija.com/4#inet#fw4#vpn_domains
 nftset=/zohomail.com/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/openai.com
-nftset=/chatgpt.com
+nftset=/chatgpt.com/4#inet#fw4#vpn_domains
 nftser=/pay.openai.com
+nftset=/pornhub.com/4#inet#fw4#vpn_domains
